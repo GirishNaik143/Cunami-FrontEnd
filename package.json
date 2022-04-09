@@ -14,7 +14,7 @@
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.22",
     "bootswatch": "^4.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
     "vue-mq": "^1.0.1",
