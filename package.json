@@ -15,7 +15,7 @@
     "bootstrap-vue": "^2.0.0-rc.22",
     "bootswatch": "^4.3.1",
     "moment": "^2.24.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^13.2.0",
     "vue": "^2.6.10",
     "vue-mq": "^1.0.1",
     "vue-resource": "^1.5.1",
@@ -23,8 +23,8 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-eslint": "^3.6.0",
-    "@vue/cli-service": "^3.6.0",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-prettier": "^4.0.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
